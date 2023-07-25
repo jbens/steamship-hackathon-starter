@@ -1,4 +1,4 @@
 steamship_langchain==0.0.20rc2
 inquirer~=3.1.3
 termcolor~=2.3.0
-steamship==2.17.18
+steamship==2.16.6
